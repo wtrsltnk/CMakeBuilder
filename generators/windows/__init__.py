@@ -1,1 +1,1 @@
-__all__ = ["Ninja", "NMake_Makefiles", "Visual_Studio"]
+__all__ = ["MinGW", "Ninja", "NMake_Makefiles", "Visual_Studio"]
